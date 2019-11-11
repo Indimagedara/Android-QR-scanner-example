@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-QR-Scanner-Example</string>
+    <string name="please_focus_on_qr_code">Please Focus on QR code</string>
+</resources>
